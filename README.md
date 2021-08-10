@@ -1,2 +1,3 @@
-# card-deck
-A collection of card deck svg files.
+# Card Deck
+
+A collection of card deck svg files and accompanying CSS.
